@@ -21,9 +21,9 @@ function App() {
   };
 
   return (
-    <Router>
-      <div>
-        <Navbar theme={theme} toggleTheme={toggleTheme}/>
+      <Router basename="/React_Final_Popular_Movies">
+        <div>
+          <Navbar theme={theme} toggleTheme={toggleTheme}/>
 
         <Routes>
           <Route path="/" element={<Home />} />
