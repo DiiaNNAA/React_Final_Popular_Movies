@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/React_Final_Popular_Movies/static/css/main.98a3638a.css",
+    "main.js": "/React_Final_Popular_Movies/static/js/main.c34a29d5.js",
+    "static/js/453.fb19278b.chunk.js": "/React_Final_Popular_Movies/static/js/453.fb19278b.chunk.js",
+    "static/media/1.jpg": "/React_Final_Popular_Movies/static/media/1.a05a77afc185f6526bad.jpg",
+    "static/media/2.jpg": "/React_Final_Popular_Movies/static/media/2.99aa2789e2b8f47980fb.jpg",
+    "static/media/3.jpg": "/React_Final_Popular_Movies/static/media/3.c53b8c1d575309734e54.jpg",
+    "static/media/day-mode-icon.svg": "/React_Final_Popular_Movies/static/media/day-mode-icon.fb60422089114037dc095fe15977bfa2.svg",
+    "static/media/slick.svg": "/React_Final_Popular_Movies/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/React_Final_Popular_Movies/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/React_Final_Popular_Movies/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/React_Final_Popular_Movies/static/media/slick.295183786cd8a1389865.woff",
+    "static/media/dark-mode-icon.svg": "/React_Final_Popular_Movies/static/media/dark-mode-icon.f717e3f692d887ba1ed58e5ff1c8ad04.svg",
+    "index.html": "/React_Final_Popular_Movies/index.html",
+    "main.98a3638a.css.map": "/React_Final_Popular_Movies/static/css/main.98a3638a.css.map",
+    "main.c34a29d5.js.map": "/React_Final_Popular_Movies/static/js/main.c34a29d5.js.map",
+    "453.fb19278b.chunk.js.map": "/React_Final_Popular_Movies/static/js/453.fb19278b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98a3638a.css",
+    "static/js/main.c34a29d5.js"
+  ]
+}
